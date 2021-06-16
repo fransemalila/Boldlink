@@ -1,5 +1,5 @@
 # Boldlink
-Hello World executable application
+Hello executable application
 
 ## Installinng the dependencies 
 make install
